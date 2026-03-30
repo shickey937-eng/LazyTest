@@ -1,2 +1,2 @@
 # LazyTest
-This is a test file used to get used to LazyGit
+This is a test file created so I can get used to lazygit.
